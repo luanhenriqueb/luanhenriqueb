@@ -1,4 +1,4 @@
-# 😎 prodigy
+# 😎 Luan 'prodigy'
 
 <p> Seja bem vindo ao meu repositório! 👋</p>
 <p>Aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária como programador. 🏆</p>
