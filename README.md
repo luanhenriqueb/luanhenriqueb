@@ -1,6 +1,5 @@
-# 😎 Luan Henrique
-
-<p> Seja bem vindo ao meu repositório! 👋</p>
+<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Luan Henrique</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luanhenriquee&label=Profile%20views&color=0e75b6&style=flat" alt="jose-bone" /> </p>
 <p>Aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária como programador. 🏆</p>
 
 <details>
@@ -24,7 +23,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-# 🏵 Estatísticas do GitHub
+## ⚙️ GitHub Analytics
 <div align="center">
   <a href="https://github.com/luanhenriquee">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luanhenriquee&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
